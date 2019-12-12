@@ -1,0 +1,10 @@
+{
+  "jwtFaker": {
+    "header": {
+      "alg": "HS256",
+      "type": "JWT"
+    },
+    "key": "da70203eeb95"
+  },
+  "apolloInterface": "https://yq42lj36m9.sse.codesandbox.io/"
+}

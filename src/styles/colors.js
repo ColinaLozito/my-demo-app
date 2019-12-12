@@ -1,0 +1,25 @@
+const baseColors = {
+  mainColor: 'rgba(86, 101, 115, 1)',
+  lightGray: 'rgba(178, 178, 178,1)',
+  white: 'rgba(255, 255, 255, 1)',
+  transparent: 'transparent',
+  red: 'rgba(244, 58, 62,1)',
+  yellow: 'rgb(245, 185, 1)',
+  darkGray: 'rgb(74, 74, 74)',
+  paleGray: 'rgb(248, 248, 248)',
+  dark: 'rgba(36, 36, 36, 1)',
+  black: 'rgb(0, 0, 0)',
+  blackLight: 'rgba(0, 0, 0, 0.7)',
+  gray: 'rgb(216, 216, 216)',
+  grayOpacity: 'rgba(74, 74, 74, 0.1)',
+  midGrayOpacity: 'rgba(36, 32, 32, 0.6)',
+  captionGray: 'rgba(0.64, 0.64, 0.64, 0.3)',
+  whiteGray: 'rgba(230,230,230,1)',
+  grayMediumOpacity: 'rgba(74, 74, 74, 0.5)',
+  regularLightGray: 'rgba(164, 164, 164, 1)',
+  green: 'rgba(72, 201, 176 , 1)',
+  veryLightGray: 'rgba(242, 243, 244, 1)',
+  blue: 'rgba(46, 134, 193, 1)',
+};
+
+export default baseColors;
